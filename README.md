@@ -2,6 +2,10 @@
 
 A simple implementation of an algorithm to Reverse Words in char arrays. This is written in `C#`.
 
+## Features
+
+This algorithm uses constant memory O(1) and is quadratic order O(n^2).
+
 ## Installation
 
 1. `git clone https://github.com/rcarrillopadron/reverse-words-in-sentences.git`
